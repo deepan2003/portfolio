@@ -19,7 +19,7 @@ AI Engineer specializing in production Computer Vision, Agentic AI, and GenAI sy
 - **System Architecture Blueprints:** Interactive modal diagrams for the Production Agentic RAG system, FastMCP Database Agent, and DVC/GitHub Actions MLOps pipeline.
 - **Interactive Skills Radar & Production Evidence Matrix:** Filterable domain skills (`Computer Vision`, `Agentic AI`, `Generative AI`, `AI/ML Frameworks`, `MLOps & Infra`) mapped directly to real-world internship and project implementations.
 - **Ask My AI Twin Assistant:** Built-in interactive first-person chat widget grounded on official CV data to answer recruiter questions about experience, tech stack, and availability.
-- **Self-Contained Official CV Download:** Instant in-browser PDF download (`Deepan_K_S_CV.pdf`) and high-contrast Dark/Light theme toggle.
+- **Self-Contained Official CV Download:** Instant in-browser PDF download (`K S Deepan CV.pdf`) and high-contrast Dark/Light theme toggle.
 
 ## Production Experience
 
